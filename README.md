@@ -15,4 +15,5 @@ Links to [Keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)
     - 65% keyboard
 
 - [60% Symmetric Stagger Test](http://www.keyboard-layout-editor.com/#/gists/c402aef1c52f676c1fc5051fff0127a1)
+    - [ANSI Ver](http://www.keyboard-layout-editor.com/#/gists/c491795efce825d0161cb8db9abcc188)
     - 60% keyboard
