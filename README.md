@@ -6,7 +6,8 @@ Links to [Keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)
     - [Product page](https://kbdfans.cn/products/coming-soon-kbd67-mechanical-keyboard-diy-kit)
     - 65% keyboard
 
-- [Ergo42](http://www.keyboard-layout-editor.com/#/gists/16c1478b044c531de3ba1b5324bdb085)
+- [Ergo42](http://www.keyboard-layout-editor.com/#/gists/f76a86a1b081951932a40a4fb9b08117)
+    - [Layout Rev.1](http://www.keyboard-layout-editor.com/#/gists/16c1478b044c531de3ba1b5324bdb085)
     - [Product page](https://tanoshii-life.booth.pm/items/952695)
     - 56 keys split ortholinear
 
