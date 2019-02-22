@@ -1,4 +1,4 @@
-# keyboard-layout
+# keyboard-layouts
 
 Links to [Keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)
 
