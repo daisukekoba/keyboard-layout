@@ -20,3 +20,4 @@ Links to [Keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)
     - 60% keyboard
 
 - [Japanese 108/109](http://www.keyboard-layout-editor.com/#/gists/17f793788df87d80604117de2976d8ce)
+- [Japanese MacBook](http://www.keyboard-layout-editor.com/#/gists/60600d2c29da976c4ff60cdf7561810c)
