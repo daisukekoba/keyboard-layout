@@ -23,3 +23,5 @@ Links to [Keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)
 - [Japanese MacBook](http://www.keyboard-layout-editor.com/#/gists/60600d2c29da976c4ff60cdf7561810c)
 - Japanese Thumb Shift
     - [NICOLA Type-F](http://www.keyboard-layout-editor.com/#/gists/45c9a31f383c83037ddfd1268520d561)
+- Japanese M-type
+    - [Rakuraku keyboard](https://gist.github.com/daisukekoba/3df5d0ea2d2805302b0233681a2adf5b)
